@@ -1,14 +1,16 @@
 ## Hi there 👋
-I’m Akylbek, an aspiring iOS developer learning Swift, SwiftUI, UIKit, and Mapbox SDK. Passionate about app performance, UI/UX, and building impactful apps. 🚀
+Aspiring iOS developer learning Swift, SwiftUI, and UIKit. Eager to gain hands-on experience through an internship and grow as a developer. Passionate about problem-solving and clean code.
 
-## Current Projects
+##🚀 Current Projects
 ### **ScoreMate**
 - SwiftUI
 - MVVM
 - Alamofire
 - SoccersAPI
 
-## 📫 How to reach me
+##🖥 Skills
+
+##📫 How to reach me
 - Email: akylbek.oralov@nu.edu.kz
 - LinkedIn: [Akylbek Oralov](https://www.linkedin.com/in/akylbek-oralov)
 - Telegram: [@oralovv26](https://t.me/oralovv26)
