@@ -18,8 +18,3 @@ Aspiring iOS developer learning Swift, SwiftUI, and UIKit. Eager to gain hands-o
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkylbekOralov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkylbekOralov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AkylbekOralov&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
