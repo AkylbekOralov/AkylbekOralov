@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Akylbek 👋
 Aspiring iOS developer learning Swift, SwiftUI, and UIKit. Eager to gain hands-on experience through an internship and grow as a developer. Passionate about problem-solving and clean code.
 
 ## 🚀 Current Projects
