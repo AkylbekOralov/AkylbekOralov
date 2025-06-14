@@ -3,11 +3,12 @@ Aspiring iOS developer learning Swift, SwiftUI, and UIKit. Eager to gain hands-o
 
 ## 🚀 Current Projects
 - [ScoreMate](https://github.com/AkylbekOralov/ScoreMate): SwiftUI, MVVM, Alamofire, SoccersAPI
+- [AirCheck](https://github.com/AkylbekOralov/AirCheck): UIKit, MVC, Mapbox, Alamofire, Snapkit,  Air quality API
 
 ## 🖥 Skills
 - Swift
 - SwiftUI, UIKit
-- URLSession, Alamofire
+- URLSession, Alamofire, Snapkit, Mapbox
 - Xcode, Git, Figma
 
 ## 📫 How to reach me
