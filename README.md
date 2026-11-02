@@ -13,11 +13,15 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 *Mar 2026 – Present*
 
-* Contributing to core mobile platform architecture and shared services (Mobile Platform / Tech Core team)
-* Reduced app size by 25% (400MB → 300MB) through build and asset optimization
-* Removed 6,000+ lines of dead code by cleaning feature flags and unused resources
-* Migrated localization system to `.xcstrings`, improving scalability and maintainability
-* Set up SwiftLint and Periphery checks in CI, moved shared singletons to FactoryKit DI, and migrated modules to Swift 6
+* Mobile Platform (Tech Core) team: core architecture and shared services for the customer app (Kotlin Multiplatform monorepo), 170+ merged PRs
+* Reduced app size by 25% (400MB → 300MB) through build settings, asset compression and dead-code removal
+* Moved feature flags to one shared KMP system: removed ~30 outdated flags, the legacy flag module and the Firebase flag reader, and fixed duplicate config fetching
+* Removed 6,000+ lines of dead code with Periphery, flag cleanup and unused-resource cleanup
+* Finished migrating all modules to String Catalogs (`.xcstrings`) and unified image usage across the app
+* Set up SwiftLint (auto-fix git hook, required CI check), automated Periphery scans in CI, and built dependency monitoring that reports outdated iOS and Android libraries
+* Migrating modules to Swift 6 strict concurrency and moving shared singletons to FactoryKit DI
+* Added iPhone Duo (foldable) support for bottom sheets: adaptive width, centered layout and safe-area handling
+* Fixed a cross-account order data exposure by clearing order state on logout, and integrated the Adjust SDK
 
 ### iOS Engineer Intern, Snoonu
 
