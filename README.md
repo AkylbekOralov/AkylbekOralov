@@ -3,13 +3,13 @@
 iOS Engineer | Swift, UIKit, SwiftUI
 
 iOS engineer focused on scalable mobile architecture and performance optimization.
-Experienced in working with modular codebases, improving build pipelines, and shipping production apps, including my own app [NuetShark](https://nuetshark.app/) on the App Store.
+Experienced in working with modular codebases, improving build pipelines, and shipping production apps, including my own app [NuetShark](https://akylbekoralov.github.io/nuetshark-web/) on the App Store.
 
 ---
 
 ## Featured: NuetShark
 
-**NUET prep app for iPhone & iPad** · [Website](https://nuetshark.app/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
+**NUET prep app for iPhone & iPad** · [Website](https://akylbekoralov.github.io/nuetshark-web/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
 
 Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo.
 
@@ -50,7 +50,7 @@ Exam-style Mathematics and Critical Thinking tests for students applying to Naza
 
 ## Projects
 
-### [NuetShark](https://nuetshark.app/)
+### [NuetShark](https://akylbekoralov.github.io/nuetshark-web/)
 
 NUET preparation app, live on the App Store (see above)
 
@@ -102,6 +102,6 @@ Football tracking app built with SwiftUI and MVVM
 
 ## Links
 
-* NuetShark: https://nuetshark.app/
+* NuetShark: https://akylbekoralov.github.io/nuetshark-web/
 * LinkedIn: https://www.linkedin.com/in/akylbek-oralov
 * Email: [oralovv26@gmail.com](mailto:oralovv26@gmail.com)
