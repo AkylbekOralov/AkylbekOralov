@@ -23,10 +23,12 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 *Sep 2025 – Feb 2026*
 
-* Migrated 36 modules to type-safe resource management using Tuist
-* Built GitHub Actions workflow for automated feature flag cleanup
-* Implemented multi-currency support for international expansion
-* Developed reusable services for price formatting and date/time handling
+* Migrated 36 modules to type-safe string and image resources using Tuist
+* Implemented multi-currency support for expansion to Kuwait, Oman and Bahrain
+* Developed reusable price formatting and date/time services for the Kuwait, Oman and Bahrain markets
+* Added multi-timezone support and documented the shared formatting services for the team
+* Unified icons across modules following the design system
+* Fixed launch-blocking bugs for the Kuwait release, including address search and the country picker
 
 ### iOS Developer (Contract), Rabitabank
 
