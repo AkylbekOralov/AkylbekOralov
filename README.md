@@ -1,9 +1,24 @@
 ## Akylbek Oralov
 
-iOS Engineer | Swift, SwiftUI, UIKit
+iOS Engineer | Swift, UIKit, SwiftUI
 
 iOS engineer focused on scalable mobile architecture and performance optimization.
-Experienced in working with modular codebases, improving build pipelines, and delivering production-ready features.
+Experienced in working with modular codebases, improving build pipelines, and shipping production apps, including my own app [NuetShark](https://nuetshark.app/) on the App Store.
+
+---
+
+## Featured: NuetShark
+
+**NUET prep app for iPhone & iPad** · [Website](https://nuetshark.app/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
+
+Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo.
+
+* Timed exams with a question tracker, auto-saved progress and resume mid-test
+* Instant results with per-question timing, correct/incorrect filters and bookmarks
+* Weekly streaks and progress stats; properly typeset math with LaTeX
+* No ads, no advertising tracking, no third-party analytics
+
+**Built with:** UIKit, SnapKit, VIPER, FactoryKit DI, modular Tuist workspace, Supabase backend, feature flags, light/dark themes
 
 ---
 
@@ -11,10 +26,11 @@ Experienced in working with modular codebases, improving build pipelines, and de
 
 ### Junior Mobile Engineer (iOS), Snoonu
 
-* Contributing to core mobile platform architecture and shared services
+* Contributing to core mobile platform architecture and shared services (Mobile Platform / Tech Core team)
 * Reduced app size by 25% (400MB → 300MB) through build and asset optimization
 * Removed 6,000+ lines of dead code by cleaning feature flags and unused resources
 * Migrated localization system to `.xcstrings`, improving scalability and maintainability
+* Set up SwiftLint and Periphery checks in CI, moved shared singletons to FactoryKit DI, and migrated modules to Swift 6
 
 ### iOS Engineer Intern, Snoonu
 
@@ -34,7 +50,11 @@ Experienced in working with modular codebases, improving build pipelines, and de
 
 ## Projects
 
-### AirCheck
+### [NuetShark](https://nuetshark.app/)
+
+NUET preparation app, live on the App Store (see above)
+
+### [AirCheck](https://github.com/AkylbekOralov/AirCheck)
 
 Air quality tracking app using Mapbox and AQI APIs
 
@@ -43,7 +63,7 @@ Air quality tracking app using Mapbox and AQI APIs
 * Added location-based data fetching and caching
 * Integrated WidgetKit for quick access to air quality data
 
-### ScoreMate
+### [ScoreMate](https://github.com/AkylbekOralov/ScoreMate)
 
 Football tracking app built with SwiftUI and MVVM
 
@@ -58,25 +78,30 @@ Football tracking app built with SwiftUI and MVVM
 
 **Core**
 
-* Swift, UIKit, SwiftUI
+* Swift, UIKit, SwiftUI, SnapKit
 
 **Architecture**
 
-* MVVM, Dependency Injection, Modular Architecture
+* MVVM, VIPER, Dependency Injection (FactoryKit), Modular Architecture
 
 **Concurrency & Networking**
 
 * async/await, GCD
 * URLSession, Alamofire
 
+**Backend**
+
+* Supabase
+
 **Tooling**
 
-* Tuist, GitHub Actions, CI/CD
+* Tuist, GitHub Actions, CI/CD, SwiftLint, Periphery
 * Git, Xcode
 
 ---
 
 ## Links
 
+* NuetShark: https://nuetshark.app/
 * LinkedIn: https://www.linkedin.com/in/akylbek-oralov
 * Email: [oralovv26@gmail.com](mailto:oralovv26@gmail.com)
