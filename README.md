@@ -18,6 +18,7 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 * Removed 6,000+ lines of dead code and ~30 outdated feature flags
 * Migrated all modules to String Catalogs (`.xcstrings`)
 * Set up SwiftLint, Periphery and dependency checks in CI
+* Built a Datadog iOS performance dashboard: crash-free rate, freezes, slow screens, startup, network and memory
 * Migrated 4 modules to Swift 6 and moved shared singletons to FactoryKit DI
 * Added iPhone Duo (foldable) support for bottom sheets
 
