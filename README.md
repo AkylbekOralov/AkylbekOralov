@@ -32,10 +32,13 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 *May 2025 – Jun 2025*
 
-* Delivered features for a production banking application (Rabita Junior)
-* Implemented secure PIN change flow
-* Developed dynamic UI components and improved error handling
-* Fixed UI and business logic issues across the app
+Built features for Rabita Junior, Rabitabank's mobile banking app for children.
+
+* Built a character-switching system that keeps the selected character in sync across every screen
+* Added PIN change to the Settings module
+* Turned backend error responses into clear, custom alerts for the user
+* Localized the whole app, with the UI updating instantly on language change
+* Fixed the statistics chart animation so it replays correctly when the month or year changes
 
 ---
 
