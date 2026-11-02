@@ -3,7 +3,7 @@
 iOS Engineer | Swift, UIKit, SwiftUI
 
 iOS engineer focused on scalable mobile architecture and performance optimization.
-Experienced in working with modular codebases, improving build pipelines, and shipping production apps, including my own app [NuetShark](https://akylbekoralov.github.io/nuetshark-web/) on the App Store.
+Experienced in working with modular codebases, improving build pipelines, and shipping production apps, including my own app [NuetShark](https://nuetshark.app/) on the App Store.
 
 ---
 
@@ -55,7 +55,7 @@ Built features for Rabita Junior, Rabitabank's mobile banking app for children.
 
 ### [NuetShark](https://akylbekoralov.github.io/nuetshark-web/)
 
-**NUET prep app for iPhone & iPad** · [Website](https://akylbekoralov.github.io/nuetshark-web/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
+**NUET prep app for iPhone & iPad** · [Website](https://nuetshark.app/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
 
 Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo, from development to App Store submission, review and ongoing releases.
 
