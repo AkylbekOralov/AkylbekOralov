@@ -13,15 +13,13 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 *Mar 2026 – Present*
 
-* Mobile Platform (Tech Core) team: core architecture and shared services for the customer app (Kotlin Multiplatform monorepo), 170+ merged PRs
-* Reduced Firebase App Distribution build size by 25% (400MB → 300MB) through build settings, asset compression and dead-code removal
-* Moved feature flags to one shared KMP system: removed ~30 outdated flags, the legacy flag module and the Firebase flag reader, and fixed duplicate config fetching
-* Removed 6,000+ lines of dead code with Periphery, flag cleanup and unused-resource cleanup
-* Finished migrating all modules to String Catalogs (`.xcstrings`) and unified image usage across the app
-* Set up SwiftLint (auto-fix git hook, required CI check), automated Periphery scans in CI, and built dependency monitoring that reports outdated iOS and Android libraries
-* Migrating modules to Swift 6 strict concurrency and moving shared singletons to FactoryKit DI
-* Added iPhone Duo (foldable) support for bottom sheets: adaptive width, centered layout and safe-area handling
-* Fixed a cross-account order data exposure by clearing order state on logout, and integrated the Adjust SDK
+* Mobile Platform team, 170+ merged PRs in a Kotlin Multiplatform monorepo
+* Cut Firebase build size by 25% (400MB → 300MB)
+* Removed 6,000+ lines of dead code and ~30 outdated feature flags
+* Migrated all modules to String Catalogs (`.xcstrings`)
+* Set up SwiftLint, Periphery and dependency checks in CI
+* Migrated 4 modules to Swift 6 and moved shared singletons to FactoryKit DI
+* Added iPhone Duo (foldable) support for bottom sheets
 
 ### iOS Engineer Intern, Snoonu
 
