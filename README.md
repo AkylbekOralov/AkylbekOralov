@@ -14,7 +14,7 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 *Mar 2026 – Present*
 
 * Mobile Platform (Tech Core) team: core architecture and shared services for the customer app (Kotlin Multiplatform monorepo), 170+ merged PRs
-* Reduced app size by 25% (400MB → 300MB) through build settings, asset compression and dead-code removal
+* Reduced Firebase App Distribution build size by 25% (400MB → 300MB) through build settings, asset compression and dead-code removal
 * Moved feature flags to one shared KMP system: removed ~30 outdated flags, the legacy flag module and the Firebase flag reader, and fixed duplicate config fetching
 * Removed 6,000+ lines of dead code with Periphery, flag cleanup and unused-resource cleanup
 * Finished migrating all modules to String Catalogs (`.xcstrings`) and unified image usage across the app
