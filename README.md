@@ -16,11 +16,14 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 * Mobile Platform team, 170+ merged PRs
 * Cut Firebase build size by 25% (400MB → 300MB)
 * Removed 6,000+ lines of dead code and ~30 outdated feature flags
+* Moved feature flags to one shared KMP source and halved config requests on app launch (4 → 2)
 * Migrated all modules to String Catalogs (`.xcstrings`)
 * Set up SwiftLint, Periphery and dependency checks in CI
 * Built a Datadog iOS performance dashboard: crash-free rate, freezes, slow screens, startup, network and memory
+* Integrated [DebugSwift](https://github.com/DebugSwift/DebugSwift) for in-app memory monitoring
 * Migrated 4 modules to Swift 6 and moved shared singletons to FactoryKit DI
 * Added iPhone Duo (foldable) support for bottom sheets
+* Fixed a cross-account order data leak on logout
 
 ### iOS Engineer Intern, Snoonu
 
