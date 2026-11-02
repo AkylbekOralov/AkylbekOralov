@@ -53,7 +53,7 @@ Built features for Rabita Junior, Rabitabank's mobile banking app for children.
 
 ## Projects
 
-### [NuetShark](https://akylbekoralov.github.io/nuetshark-web/)
+### [NuetShark](https://nuetshark.app/)
 
 **NUET prep app for iPhone & iPad** · [Website](https://nuetshark.app/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
 
@@ -136,6 +136,6 @@ Football tracking app built with SwiftUI and MVVM
 
 ## Links
 
-* NuetShark: https://akylbekoralov.github.io/nuetshark-web/
+* NuetShark: https://nuetshark.app/
 * LinkedIn: https://www.linkedin.com/in/akylbek-oralov
 * Email: [oralovv26@gmail.com](mailto:oralovv26@gmail.com)
