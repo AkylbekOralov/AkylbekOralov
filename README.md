@@ -47,7 +47,7 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo, from development to App Store submission, review and ongoing releases.
 
-**App Store Connect (as of Nov 2026):** 220+ downloads · 1.2K+ impressions · 365 product page views · ~27% conversion rate · 180+ updates installed
+**App Store Connect (as of Nov 2026):** 220+ downloads · 1.2K+ impressions · 365 product page views
 
 * Timed exams with a question tracker, auto-saved progress and resume mid-test
 * Instant results with per-question timing, correct/incorrect filters and bookmarks
