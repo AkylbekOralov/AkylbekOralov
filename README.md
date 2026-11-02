@@ -7,23 +7,6 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 ---
 
-## Featured: NuetShark
-
-**NUET prep app for iPhone & iPad** · [Website](https://akylbekoralov.github.io/nuetshark-web/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
-
-Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo, from development to App Store submission, review and ongoing releases.
-
-**App Store Connect (as of Nov 2026):** 220+ downloads · 1.2K+ impressions · 365 product page views · ~27% conversion rate · 180+ updates installed
-
-* Timed exams with a question tracker, auto-saved progress and resume mid-test
-* Instant results with per-question timing, correct/incorrect filters and bookmarks
-* Weekly streaks and progress stats; properly typeset math with LaTeX
-* No ads, no advertising tracking, no third-party analytics
-
-**Built with:** UIKit, SnapKit, VIPER, FactoryKit DI, modular Tuist workspace, Supabase backend, feature flags, light/dark themes
-
----
-
 ## Experience
 
 ### Junior Mobile Engineer (iOS), Snoonu
@@ -60,7 +43,18 @@ Exam-style Mathematics and Critical Thinking tests for students applying to Naza
 
 ### [NuetShark](https://akylbekoralov.github.io/nuetshark-web/)
 
-NUET preparation app, live on the App Store
+**NUET prep app for iPhone & iPad** · [Website](https://akylbekoralov.github.io/nuetshark-web/) · [App Store](https://apps.apple.com/kz/app/nuetshark/id6816238094)
+
+Exam-style Mathematics and Critical Thinking tests for students applying to Nazarbayev University. Designed, built and shipped solo, from development to App Store submission, review and ongoing releases.
+
+**App Store Connect (as of Nov 2026):** 220+ downloads · 1.2K+ impressions · 365 product page views · ~27% conversion rate · 180+ updates installed
+
+* Timed exams with a question tracker, auto-saved progress and resume mid-test
+* Instant results with per-question timing, correct/incorrect filters and bookmarks
+* Weekly streaks and progress stats; properly typeset math with LaTeX
+* No ads, no advertising tracking, no third-party analytics
+
+**Built with:** UIKit, SnapKit, VIPER, FactoryKit DI, modular Tuist workspace, Supabase backend, feature flags, light/dark themes
 
 ### [AirCheck](https://github.com/AkylbekOralov/AirCheck)
 
