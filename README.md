@@ -84,25 +84,40 @@ Football tracking app built with SwiftUI and MVVM
 
 **Core**
 
-* Swift, UIKit, SwiftUI, SnapKit
+* Swift (Swift 6), UIKit, SwiftUI, SnapKit
+* Auto Layout, iPhone and iPad support (universal apps, adaptive layouts)
 
 **Architecture**
 
-* MVVM, VIPER, Dependency Injection (FactoryKit), Modular Architecture
+* MVVM, VIPER, MVC, Clean Architecture, Modular Architecture
+* Dependency Injection (FactoryKit)
+* Kotlin Multiplatform (KMP) integration
 
 **Concurrency & Networking**
 
-* async/await, GCD
-* URLSession, Alamofire
+* Swift Concurrency (async/await, actors, Sendable), Combine, GCD
+* URLSession, Alamofire, REST
 
-**Backend**
+**Apple Frameworks**
 
-* Supabase
+* WidgetKit, MapKit, CoreLocation, String Catalogs (.xcstrings)
+
+**Persistence**
+
+* Core Data, SwiftData, UserDefaults, Keychain
+
+**Backend & SDKs**
+
+* Supabase, Firebase, Mapbox, Adjust
+
+**Testing**
+
+* XCTest, Swift Testing
 
 **Tooling**
 
-* Tuist, GitHub Actions, CI/CD, SwiftLint, Periphery
-* Git, Xcode
+* Tuist, Swift Package Manager, Xcode, Git
+* GitHub Actions, Fastlane, CI/CD, SwiftLint, Periphery, feature flags
 
 ---
 
