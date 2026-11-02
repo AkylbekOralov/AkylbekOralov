@@ -104,7 +104,11 @@ Football tracking app built with SwiftUI and MVVM
 
 **Backend & SDKs**
 
-* Supabase, Firebase, Mapbox, Adjust
+* Supabase, Firebase, Mapbox
+
+**Analytics & Monitoring**
+
+* Amplitude, Datadog, Adjust
 
 **Testing**
 
