@@ -58,7 +58,7 @@ Exam-style Mathematics and Critical Thinking tests for students applying to Naza
 
 ### [NuetShark](https://akylbekoralov.github.io/nuetshark-web/)
 
-NUET preparation app, live on the App Store (see above)
+NUET preparation app, live on the App Store
 
 ### [AirCheck](https://github.com/AkylbekOralov/AirCheck)
 
