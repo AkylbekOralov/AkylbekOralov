@@ -13,7 +13,7 @@ Experienced in working with modular codebases, improving build pipelines, and sh
 
 *Mar 2026 – Present*
 
-* Mobile Platform team, 170+ merged PRs in a Kotlin Multiplatform monorepo
+* Mobile Platform team, 170+ merged PRs
 * Cut Firebase build size by 25% (400MB → 300MB)
 * Removed 6,000+ lines of dead code and ~30 outdated feature flags
 * Migrated all modules to String Catalogs (`.xcstrings`)
