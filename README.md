@@ -26,6 +26,8 @@ Exam-style Mathematics and Critical Thinking tests for students applying to Naza
 
 ### Junior Mobile Engineer (iOS), Snoonu
 
+*Mar 2026 – Present*
+
 * Contributing to core mobile platform architecture and shared services (Mobile Platform / Tech Core team)
 * Reduced app size by 25% (400MB → 300MB) through build and asset optimization
 * Removed 6,000+ lines of dead code by cleaning feature flags and unused resources
@@ -34,12 +36,16 @@ Exam-style Mathematics and Critical Thinking tests for students applying to Naza
 
 ### iOS Engineer Intern, Snoonu
 
+*Sep 2025 – Feb 2026*
+
 * Migrated 36 modules to type-safe resource management using Tuist
 * Built GitHub Actions workflow for automated feature flag cleanup
 * Implemented multi-currency support for international expansion
 * Developed reusable services for price formatting and date/time handling
 
 ### iOS Developer (Contract), Rabitabank
+
+*May 2025 – Jun 2025*
 
 * Delivered features for a production banking application (Rabita Junior)
 * Implemented secure PIN change flow
